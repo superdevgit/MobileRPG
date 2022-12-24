@@ -78,7 +78,7 @@ Our team realized that a 2D Mobile RPG game wasn't common in today's era. So, we
 
 ## Contributors
 
-- Preston Wong – [My Github](https://github.com/mantadreamer) – mantadreamer07@gmail.com - Main developer, wrote and debugged most of the code of MobileRPG, designed some of the maps
+- Luis Müller – [My Github](https://github.com/mantadreamer) – mantadreamer07@gmail.com - Main developer, wrote and debugged most of the code of MobileRPG, designed some of the maps
 
 ***This game uses music from Zelda, Your Lie In April, Boku no Hero Academia, Naruto, and more***
 
